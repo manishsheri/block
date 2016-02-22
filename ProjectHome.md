@@ -1,0 +1,1 @@
+Customized app designed for keeping out data thieves, hackers, or any entities with iPad's, notebooks, androids, or desktop computers not considered to be friendly.
